@@ -1,0 +1,39 @@
+#Sitemap: Allow Sitemap
+Sitemap: https://miciah1.github.io/Sitemap.xml
+
+# Block Images and Libraries
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: /Videos/
+Disallow: /.gitignore
+Disallow: /icofont
+Disallow: /fontawesome/
+Disallow: /leaflet/
+Disallow:  /privacy.html
+Disallow:  /license.html
+Disallow:  /license-Actual.html
+Disallow:  /snippets.html
+
+# Allow Main Pages
+User-agent: *
+Allow: /index.html
+Allow: /contact.html
+Allow: /skills.html
+Allow: /bio.html
+Allow: /technology.html
+Allow: /pipeline.html
+
+
+
+# Twitter
+User-agent: Twitterbot
+Disallow: *
+
+Allow: /img/cards
+Allow: /icons
+Allow: /index.html
+Allow: /contact.html
+Allow: /skills.html
+Allow: /bio.html

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="233"
+   viewBox="0 0 185.20833 61.647918"
+   version="1.1"
+   id="svg8491"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Brand_Bar_One_700x233.svg"
+   inkscape:export-filename="C:\Users\Martin Dynamx\Desktop\Brand_Bar_One_700x233.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title12970">Bar MM</title>
+  <defs
+     id="defs8485">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4998">
+      <stop
+         style="stop-color:#2ad4ff;stop-opacity:1;"
+         offset="0"
+         id="stop4994" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4996" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4990">
+      <stop
+         style="stop-color:#4400aa;stop-opacity:1"
+         offset="0"
+         id="stop4986" />
+      <stop
+         style="stop-color:#2f47f2;stop-opacity:0"
+         offset="1"
+         id="stop4988" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4990"
+       id="radialGradient4992"
+       cx="64.25647"
+       cy="365.16797"
+       fx="64.25647"
+       fy="365.16797"
+       r="71.025751"
+       gradientTransform="matrix(7.0572415,-0.10972763,0.06899691,4.187708,-401.81058,-1137.2982)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4998"
+       id="linearGradient5026"
+       x1="94.620476"
+       y1="283.98593"
+       x2="96.47242"
+       y2="256.22696"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="150.56783"
+     inkscape:cy="144.93146"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata8488">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bar MM</dc:title>
+        <dc:date>8/6/20</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Miciah Martin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>https://github.com/Miciah1</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://github.com/Miciah1/assets/img</dc:source>
+        <dc:identifier>_bmm1</dc:identifier>
+        <dc:relation>https://github.com/Miciah1</dc:relation>
+        <dc:language>XML,SVG,PNG,EN-US,</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Miciah</rdf:li>
+            <rdf:li>Martin</rdf:li>
+            <rdf:li>Bar</rdf:li>
+            <rdf:li>MM</rdf:li>
+            <rdf:li>Navbar Brand</rdf:li>
+            <rdf:li />
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>A brand or navigation brand image icon depicting 'Miciah Martin' as a name in text with stylings</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Miciah Martin, The Lord, Jesus</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-235.35207)">
+    <g
+       id="g4910"
+       transform="matrix(0.21729709,0,0,0.22366842,13.767636,206.64086)"
+       style="fill-opacity:1;fill:url(#radialGradient4992)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4904"
+         d="M 6.4144686,365.00734 V 167.22789 L 120.66994,365.12417 Z"
+         style="fill:url(#radialGradient4992);stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         style="fill:url(#radialGradient4992);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 148.46597,365.00734 V 167.22789 L 34.2105,365.12417 Z"
+         id="path4906"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       aria-label="ICIAH"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:0;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;letter-spacing:0px;word-spacing:0px;fill:#5555ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4914"
+       transform="matrix(4.6227056,0,0,1.3099644,-257.90274,-43.595602)">
+      <path
+         d="M 69.127115,252.63324 H 66.522623 V 240.7766 h 2.604492 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:#5555ff;stroke-width:0.26458332;fill-opacity:1"
+         id="path4931"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 75.344823,244.91898 h -2.372981 v -2.34817 q 0,-0.28939 -0.355534,-0.28939 -0.372071,0 -0.372071,0.28939 v 8.22688 q 0,0.28939 0.372071,0.28939 0.355534,0 0.355534,-0.28939 v -2.92695 h 2.372981 v 3.00964 q 0,0.84335 -0.826823,1.35598 -0.826822,0.50437 -1.868619,0.50437 -3.009636,0 -3.009636,-2.13321 v -7.63157 q 0,-2.30684 3.009636,-2.30684 2.695442,0 2.695442,2.10013 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:#5555ff;stroke-width:0.26458332;fill-opacity:1"
+         id="path4933"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 78.486751,252.63324 H 75.882259 V 240.7766 h 2.604492 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:#5555ff;stroke-width:0.26458332;fill-opacity:1"
+         id="path4935"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 86.043911,252.63324 h -2.579687 l -0.438216,-3.18327 h -1.16582 l -0.438216,3.18327 h -2.579688 l 1.951302,-11.85664 h 3.299023 z m -3.232877,-4.82865 -0.37207,-3.5388 -0.355534,3.5388 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:#5555ff;stroke-width:0.26458332;fill-opacity:1"
+         id="path4937"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 92.344301,252.63324 h -2.604492 v -5.68854 h -0.727604 v 5.68854 H 86.407713 V 240.7766 h 2.604492 v 4.72943 h 0.727604 v -4.72943 h 2.604492 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:#5555ff;stroke-width:0.26458332;fill-opacity:1"
+         id="path4939"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="ARTIN"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:0;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5026);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4918"
+       transform="matrix(3.0188721,0,0,1.675309,-180.02451,-206.33316)">
+      <path
+         d="m 83.230192,282.56741 h -2.579688 l -0.438216,-3.18326 h -1.16582 l -0.438216,3.18326 h -2.579688 l 1.951302,-11.85664 h 3.299024 z m -3.232878,-4.82864 -0.37207,-3.5388 -0.355534,3.5388 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:url(#linearGradient5026);stroke-width:0.26458332;fill-opacity:1"
+         id="path4920"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 90.068017,282.58395 h -2.604492 q -0.42168,-0.50436 -0.42168,-2.86081 v -0.0165 l 0.01654,-0.71107 q 0.02481,-1.48001 0.02481,-1.51309 0,-0.60358 -0.810286,-0.60358 v 5.68854 H 83.668417 V 270.7108 h 3.216341 q 1.099674,0 1.909961,0.50437 0.818554,0.50436 0.818554,1.59576 v 1.42214 q 0,1.38079 -1.612304,1.86862 1.620572,0.38034 1.620572,1.95957 l -0.04134,1.29811 q 0,2.84427 0.487826,3.22461 z m -2.984831,-7.77214 v -1.9513 q 0,-0.62011 -0.810286,-0.62011 v 3.1998 q 0.810286,0 0.810286,-0.62839 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:url(#linearGradient5026);stroke-width:0.26458332;fill-opacity:1"
+         id="path4922"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 95.847509,272.25693 h -1.455208 v 10.31048 H 91.787809 V 272.25693 H 90.3326 v -1.54616 h 5.514909 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:url(#linearGradient5026);stroke-width:0.26458332;fill-opacity:1"
+         id="path4924"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 98.890217,282.56741 h -2.604492 v -11.85664 h 2.604492 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:url(#linearGradient5026);stroke-width:0.26458332;fill-opacity:1"
+         id="path4926"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 106.03397,282.56741 h -2.67891 l -1.7694,-6.31692 v 6.31692 h -2.174545 v -11.85664 h 2.960025 l 1.48828,5.40742 v -5.40742 h 2.17455 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;fill:url(#linearGradient5026);stroke-width:0.26458332;fill-opacity:1"
+         id="path4928"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

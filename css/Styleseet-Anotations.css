@@ -1,0 +1,665 @@
+@charset "UTF-8";
+/*!
+ * Miciah Martin Stylesheet
+ * Copyright 2016-2022 Miciah Martin
+ * Licensed under Creative Commons (http://creativecommons.org/licenses/by/4.0)
+ * Third Party CSS have their own disclaimers and reserved rights. Miciah Martins css is generally not re-distrubutable
+ * Developers may always draw inspiration from any of my Code as long as it us used to form your own understanding and syntax
+ * Direct copying is ok with me provided attribution is provided, but please learn from and improve my code when possible.
+ * Thank You and Godspeed Friend
+ */
+
+
+
+
+ 
+ol,
+ul {
+  padding-left: 2rem;
+}
+
+ol,
+ul,
+dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ol ol,
+ul ul,
+ol ul,
+ul ol {
+  margin-bottom: 0;
+}
+
+dt {
+  font-weight: 700;
+}
+
+dd {
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+}
+
+blockquote {
+  margin: 0 0 1rem;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+small, .small {
+  font-size: 0.875em;
+}
+
+mark, .mark {
+  padding: 0.2em;
+  background-color: #fcf8e3;
+}
+
+sub,
+sup {
+  position: relative;
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+a {
+  vertical-align: middle;
+  outline:none;
+  text-decoration: none;
+}
+a:hover {
+  outline:none;
+}
+
+a:not([href]):not([class]), a:not([href]):not([class]):hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+pre,
+code,
+kbd,
+samp {
+  font-family: var(--bs-font-monospace);
+  font-size: 1em;
+  direction: ltr /* rtl:ignore */;
+  unicode-bidi: bidi-override;
+}
+
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  overflow: auto;
+  font-size: 0.875em;
+}
+pre code {
+  font-size: inherit;
+  color: inherit;
+  word-break: normal;
+}
+
+code {
+  font-size: 0.875em;
+  color: #d63384;
+  word-wrap: break-word;
+}
+a > code {
+  color: inherit;
+}
+
+kbd {
+  padding: 0.2rem 0.4rem;
+  font-size: 0.875em;
+  color: #fff;
+  background-color: #212529;
+  border-radius: 0.2rem;
+}
+kbd kbd {
+  padding: 0;
+  font-size: 1em;
+  font-weight: 700;
+}
+
+figure {
+  margin: 0 0 1rem;
+}
+
+img,
+svg {
+  vertical-align: middle;
+}
+
+table {
+  caption-side: bottom;
+  border-collapse: collapse;
+}
+
+caption {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: #6c757d;
+  text-align: left;
+}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+thead,
+tbody,
+tfoot,
+tr,
+td,
+th {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+
+label {
+  display: inline-block;
+}
+
+button {
+  border-radius: 0;
+}
+
+button:focus:not(:focus-visible) {
+  outline: 0;
+}
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+[role=button] {
+  cursor: pointer;
+}
+
+select {
+  word-wrap: normal;
+}
+select:disabled {
+  opacity: 1;
+}
+
+[list]::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button;
+}
+button:not(:disabled),
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled) {
+  cursor: pointer;
+}
+
+::-moz-focus-inner {
+  padding: 0;
+  border-style: none;
+}
+
+textarea {
+  resize: vertical;
+}
+
+fieldset {
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+legend {
+  float: left;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 0.5rem;
+  font-size: calc(1.275rem + 0.3vw);
+  line-height: inherit;
+}
+@media (min-width: 1200px) {
+  legend {
+    font-size: 1.5rem;
+  }
+}
+legend + * {
+  clear: left;
+}
+
+::-webkit-datetime-edit-fields-wrapper,
+::-webkit-datetime-edit-text,
+::-webkit-datetime-edit-minute,
+::-webkit-datetime-edit-hour-field,
+::-webkit-datetime-edit-day-field,
+::-webkit-datetime-edit-month-field,
+::-webkit-datetime-edit-year-field {
+  padding: 0;
+}
+
+::-webkit-inner-spin-button {
+  height: auto;
+}
+
+[type=search] {
+  outline-offset: -2px;
+  -webkit-appearance: textfield;
+}
+
+/* rtl:raw:
+[type="tel"],
+[type="url"],
+[type="email"],
+[type="number"] {
+  direction: ltr;
+}
+*/
+::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+::-webkit-file-upload-button {
+  font: inherit;
+}
+
+::file-selector-button {
+  font: inherit;
+}
+
+::-webkit-file-upload-button {
+  font: inherit;
+  -webkit-appearance: button;
+}
+
+output {
+  display: inline-block;
+}
+
+iframe {
+  border: 0;
+}
+
+summary {
+  display: list-item;
+  cursor: pointer;
+}
+
+progress {
+  vertical-align: baseline;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+
+
+
+
+
+
+
+/*!
+ * Miciah Martin Fonts Stylesheet
+ * Copyright 2016-2022 Miciah Martin
+ * Licensed under Creative Commons (http://creativecommons.org/licenses/by/4.0)
+ * Third Party CSS have their own disclaimers and reserved rights. Miciah Martins css is generally not re-distrubutable
+ * Developers may always draw inspiration from any of my Code as long as it us used to form your own understanding and syntax
+ * Direct copying is ok with me provided attribution is provided, but please learn from and improve my code when possible.
+ * Thank You and Godspeed Friend
+ *** Fonts Remove The up directory dots to use this file in the same directory as the fonts. ***
+ *** Check Locations This css can be pasted in to the main css file. ***
+ */
+
+@font-face {
+    font-family:Teko;
+    src: url('../fonts/Teko/Teko-Regular.eot');
+    src: url('../fonts/Teko/Teko-Regular.woff') format('woff'), url('../fonts/Teko/Teko-Regular.ttf') format('truetype'), url('../fonts/Teko/Teko-Regular.svg') format('svg'), url('../fonts/Teko/Teko-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Teko-Bold;
+    src: url('../fonts/Teko/Teko-Bold.eot');
+    src: url('../fonts/Teko/Teko-Bold.woff') format('woff'), url('../fonts/Teko/Teko-Bold.ttf') format('truetype'), url('../fonts/Teko/Teko-Bold.svg') format('svg'), url('../fonts/Teko/Teko-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Teko-Light;
+    src: url('../fonts/Teko/Teko-Light.eot');
+    src: url('../fonts/Teko/Teko-Light.woff') format('woff'), url('../fonts/Teko/Teko-Light.ttf') format('truetype'), url('../fonts/Teko/Teko-Light.svg') format('svg'), url('../fonts/Teko/Teko-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Lato;
+    src: url('../fonts/Lato/Lato-Regular.eot');
+    src: url('../fonts/Lato/Lato-Regular.woff') format('woff'), url('../fonts/Lato/Lato-Regular.ttf') format('truetype'), url('../fonts/Lato/Lato-Regular.svg') format('svg'), url('../fonts/Lato/Lato-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Lato-Thin;
+    src: url('../fonts/Lato/Lato-Thin.eot');
+    src: url('../fonts/Lato/Lato-Thin.woff') format('woff'), url('../fonts/Lato/Lato-Thin.ttf') format('truetype'), url('../fonts/Lato/Lato-Thin.svg') format('svg'), url('../fonts/Lato/Lato-Thin.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Lato-Bold;
+    src: url('../fonts/Lato/Lato-Bold.eot');
+    src: url('../fonts/Lato/Lato-Bold.woff') format('woff'), url('../fonts/Lato/Lato-Bold.ttf') format('truetype'), url('../fonts/Lato/Lato-Bold.svg') format('svg'), url('../fonts/Lato/Lato-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:LibreFranklin-Light;
+    src: url('../fonts/LibreFranklin/LibreFranklin-Light.eot');
+    src: url('../fonts/LibreFranklin/LibreFranklin-Light.woff') format('woff'), url('../fonts/LibreFranklin/LibreFranklin-Light.ttf') format('truetype'), url('../fonts/LibreFranklin/LibreFranklin-Light.svg') format('svg'), url('../fonts/LibreFranklin/LibreFranklin-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:LibreFranklin-Bold;
+    src: url('../fonts/LibreFranklin/LibreFranklin-Bold.eot');
+    src: url('../fonts/LibreFranklin/LibreFranklin-Bold.woff') format('woff'), url('../fonts/LibreFranklin/LibreFranklin-Bold.ttf') format('truetype'), url('../fonts/LibreFranklin/LibreFranklin-Bold.svg') format('svg'), url('../fonts/LibreFranklin/LibreFranklin-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Cairo-Black;
+    src: url('../fonts/Cairo-Black/Cairo-Black.eot');
+    src: url('../fonts/Cairo-Black/Cairo-Black.woff') format('woff'), url('../fonts/Cairo-Black/Cairo-Black.ttf') format('truetype'), url('../fonts/Cairo-Black/Cairo-Black.svg') format('svg'), url('../fonts/Cairo-Black/Cairo-Black.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Cairo-Regular;
+    src: url('../fonts/Cairo-Regular/Cairo-Regular.eot');
+    src: url('../fonts/Cairo-Regular/Cairo-Regular.woff') format('woff'), url('../fonts/Cairo-Regular/Cairo-Regular.ttf') format('truetype'), url('../fonts/Cairo-Regular/Cairo-Regular.svg') format('svg'), url('../fonts/Cairo-Regular/Cairo-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Haettenschweiler;
+    src: url('../fonts/HATTEN/HATTEN.eot');
+    src: url('../fonts/HATTEN/HATTEN.woff') format('woff'), url('../fonts/HATTEN/HATTEN.ttf') format('truetype'), url('../fonts/HATTEN/HATTEN.svg') format('svg'), url('../fonts/HATTEN/HATTEN.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Montserrat-Regular;
+    src: url('../fonts/Montserrat-Regular/Montserrat-Regular.eot');
+    src: url('../fonts/Montserrat-Regular/Montserrat-Regular.woff') format('woff'), url('../fonts/Montserrat-Regular/Montserrat-Regular.ttf') format('truetype'), url('../fonts/Montserrat-Regular/Montserrat-Regular.svg') format('svg'), url('../fonts/Montserrat-Regular/Montserrat-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:IBMPlexSans-Regular;
+    src: url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.eot');
+    src: url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.woff') format('woff'), url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.ttf') format('truetype'), url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.svg') format('svg'), url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:IBMPlexSans-Medium;
+    src: url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.eot');
+    src: url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.woff') format('woff'), url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.ttf') format('truetype'), url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.svg') format('svg'), url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:IBMPlexSans-Thin;
+    src: url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.eot');
+    src: url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.woff') format('woff'), url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.ttf') format('truetype'), url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.svg') format('svg'), url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Orbitron;
+    src: url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.eot');
+    src: url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.woff') format('woff'), url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.ttf') format('truetype'), url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.svg') format('svg'), url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Aguafina;
+    src: url('../fonts/Aguafina/AguafinaScript-Regular.eot');
+    src: url('../fonts/Aguafina/AguafinaScript-Regular.woff') format('woff'), url('../fonts/Aguafina/AguafinaScript-Regular.ttf') format('truetype'), url('../fonts/Aguafina/AguafinaScript-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Franklin-Gothic-Medium;
+    src: url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.eot');
+    src: url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.woff') format('woff'), url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.ttf') format('ttf'), url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.svg') format('svg'), url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.otf') format('otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face {
+    font-family: Agency-Bold;
+    src: url('../fonts/Agency-Bold/AGENCYB.eot');
+    src: url('../fonts/Agency-Bold/AGENCYB.woff') format ('woff'), url('../fonts/Agency-Bold/AGENCYB.ttf') format('ttf'), url('../fonts/Agency-Bold/AGENCYB.svg') format('svg'), url('../fonts/Agency-Bold/AGENCYB.otf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: Agency;
+    src: url('../fonts/Agency-Regular/AGENCYR.eot');
+    src: url('../fonts/Agency-Regular/AGENCYR.woff') format ('woff'), url('../fonts/Agency-Regular/AGENCYR.ttf') format('ttf'), url('../fonts/Agency-Regular/AGENCYR.svg') format('svg'), url('../fonts/Agency-Regular/AGENCYR.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dynalight;
+    src: url('../fonts/Dynalight/Dynalight-Regular.eot');
+    src: url('../fonts/Dynalight/Dynalight-Regular.woff') format('woff'), url('../fonts/Dynalight/Dynalight-Regular.ttf') format('ttf'), url('../fonts/Dynalight/Dynalight-Regular.ttf') format('svg'), url('../fonts/Dynalight/Dynalight-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: Open-Sans;
+    src: url('../fonts/OpenSans/OpenSans-Regular.eot');
+    src: url('../fonts/OpenSans/OpenSans-Regular.woff2') format('woff'), url('../fonts/OpenSans/OpenSans-Regular.ttf') format('ttf'), url('../fonts/OpenSans/OpenSans-Regular.svg') format('svg'), url('../fonts/OpenSans/OpenSans-Light.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: Radjani;
+    src: url('../fonts/Radjani/raj-regular.eot');
+    src: url('../fonts/Radjani/raj-regular.woff') format('woff'), url('../fonts/Radjani/raj-regular.ttf') format('ttf'), url('../fonts/Radjani/raj-regular.svg') format('svg'), url('../fonts/Radjani/raj-regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.Radjani {
+    font-family: Radjani;
+}
+.Open-Sans {
+    font-family:Open-Sans;
+}
+.Agency {
+    font-family: Agency;
+}
+.Agency-Bold {
+    font-family:Agency-Bold;
+}
+.Franklin-Gothic-Medium-Condensed {
+    font-family: Franklin-Gothic-Medium;
+}
+.Aguafina {
+    font-family:Aguafina;
+}
+.Teko {
+    font-family:Teko;
+}
+.Teko-Bold {
+    font-family:Teko-Bold;
+}
+.Teko-Light {
+    font-family:Teko-Thin;
+}
+
+.Lato {
+    font-family: Lato;
+}
+.Lato-Thin {
+    font-family: Lato-Thin;
+}
+.Lato-Bold {
+    font-family: Lato-Bold;
+}
+.Libre-Frankilin-Light {
+    font-family:LibreFranklin-Light;
+}
+.Libre-Frankilin-Bold {
+    font-family:LibreFranklin-Bold;
+}
+.Cairo-Black {
+    font-family: Cairo-Black;
+}
+.Cairo-Regular {
+    font-family: Cairo-Regular;
+}
+.Hatten {
+    font-family:Haettenschweiler;
+}
+.Montserrat {
+    font-family:Montserrat-Regular;
+}
+.IBM-Regular {
+    font-family:IBMPlexSans-Regular;
+}
+.IBM-Medium {
+    font-family:IBMPlexSans-Medium;
+}
+.IBM-Thin {
+    font-family:IBMPlexSans-Thin;
+}
+.Orbitron-Thin {
+    font-family:Orbitron;
+    font-weight:300;
+}
+.Orbitron-Black {
+font-family:Orbitron;
+font-weight:900;
+}
+
+
+
+
+
+/*!
+ * Miciah Martin  Stylesheet
+ * Copyright 2016-2022 Miciah Martin
+ * Licensed under Creative Commons (http://creativecommons.org/licenses/by/4.0)
+ * Third Party CSS have their own disclaimers and reserved rights. Miciah Martins css is generally not re-distrubutable
+ * Developers may always draw inspiration from any of my Code as long as it us used to form your own understanding and syntax
+ * Direct copying is ok with me provided attribution is provided, but please learn from and improve my code when possible.
+ * Thank You and Godspeed Friend
+ * Media Query at print adjust styles for printing
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media print {
+    .d-print-inline {
+      display: inline !important;
+    }
+  
+    .d-print-inline-block {
+      display: inline-block !important;
+    }
+  
+    .d-print-block {
+      display: block !important;
+    }
+  
+    .d-print-grid {
+      display: grid !important;
+    }
+  
+    .d-print-table {
+      display: table !important;
+    }
+  
+    .d-print-table-row {
+      display: table-row !important;
+    }
+  
+    .d-print-table-cell {
+      display: table-cell !important;
+    }
+  
+    .d-print-flex {
+      display: flex !important;
+    }
+  
+    .d-print-inline-flex {
+      display: inline-flex !important;
+    }
+  
+    .d-print-none {
+      display: none !important;
+    }
+  }
+  

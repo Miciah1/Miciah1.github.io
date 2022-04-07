@@ -1,0 +1,373 @@
+@charset "UTF-8";
+/*!
+ * Miciah Martin Fonts Stylesheet
+ * Copyright 2016-2022 Miciah Martin
+ * Licensed under Creative Commons (http://creativecommons.org/licenses/by/4.0)
+ * Third Party CSS have their own disclaimers and reserved rights. Miciah Martins css is generally not re-distrubutable
+ * Developers may always draw inspiration from any of my Code as long as it us used to form your own understanding and syntax
+ * Direct copying is ok with me provided attribution is provided, but please learn from and improve my code when possible.
+ * Thank You and Godspeed Friend
+ *** Fonts Remove The up directory dots to use this file in the same directory as the fonts. ***
+ *** Check Locations This css can be pasted in to the main css file. ***
+ */
+
+
+
+
+/**
+** Fonts Remove The up directory dots to use this file in the same directory as the fonts.
+** Check Locations This css can be pasted in to the main css file
+**/
+
+@font-face {
+    font-family:Teko;
+    src: url('../fonts/Teko/Teko-Regular.eot');
+    src: url('../fonts/Teko/Teko-Regular.woff') format('woff'), url('../fonts/Teko/Teko-Regular.ttf') format('truetype'), url('../fonts/Teko/Teko-Regular.svg') format('svg'), url('../fonts/Teko/Teko-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Teko-Bold;
+    src: url('../fonts/Teko/Teko-Bold.eot');
+    src: url('../fonts/Teko/Teko-Bold.woff') format('woff'), url('../fonts/Teko/Teko-Bold.ttf') format('truetype'), url('../fonts/Teko/Teko-Bold.svg') format('svg'), url('../fonts/Teko/Teko-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Teko-Light;
+    src: url('../fonts/Teko/Teko-Light.eot');
+    src: url('../fonts/Teko/Teko-Light.woff') format('woff'), url('../fonts/Teko/Teko-Light.ttf') format('truetype'), url('../fonts/Teko/Teko-Light.svg') format('svg'), url('../fonts/Teko/Teko-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Lato;
+    src: url('../fonts/Lato/Lato-Regular.eot');
+    src: url('../fonts/Lato/Lato-Regular.woff') format('woff'), url('../fonts/Lato/Lato-Regular.ttf') format('truetype'), url('../fonts/Lato/Lato-Regular.svg') format('svg'), url('../fonts/Lato/Lato-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Lato-Thin;
+    src: url('../fonts/Lato/Lato-Thin.eot');
+    src: url('../fonts/Lato/Lato-Thin.woff') format('woff'), url('../fonts/Lato/Lato-Thin.ttf') format('truetype'), url('../fonts/Lato/Lato-Thin.svg') format('svg'), url('../fonts/Lato/Lato-Thin.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Lato-Bold;
+    src: url('../fonts/Lato/Lato-Bold.eot');
+    src: url('../fonts/Lato/Lato-Bold.woff') format('woff'), url('../fonts/Lato/Lato-Bold.ttf') format('truetype'), url('../fonts/Lato/Lato-Bold.svg') format('svg'), url('../fonts/Lato/Lato-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: LibreFranklin-Light;
+    src: url('../fonts/LibreFranklin/LibreFranklin-Light.eot');
+    src: url('../fonts/LibreFranklin/LibreFranklin-Light.woff') format('woff'), url('../fonts/LibreFranklin/LibreFranklin-Light.ttf') format('truetype'), url('../fonts/LibreFranklin/LibreFranklin-Light.svg') format('svg'), url('../fonts/LibreFranklin/LibreFranklin-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: LibreFranklin-Bold;
+    src: url('../fonts/LibreFranklin/LibreFranklin-Bold.eot');
+    src: url('../fonts/LibreFranklin/LibreFranklin-Bold.woff') format('woff'), url('../fonts/LibreFranklin/LibreFranklin-Bold.ttf') format('truetype'), url('../fonts/LibreFranklin/LibreFranklin-Bold.svg') format('svg'), url('../fonts/LibreFranklin/LibreFranklin-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Cairo-Black;
+    src: url('../fonts/Cairo-Black/Cairo-Black.eot');
+    src: url('../fonts/Cairo-Black/Cairo-Black.woff') format('woff'), url('../fonts/Cairo-Black/Cairo-Black.ttf') format('truetype'), url('../fonts/Cairo-Black/Cairo-Black.svg') format('svg'), url('../fonts/Cairo-Black/Cairo-Black.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Cairo-Regular;
+    src: url('../fonts/Cairo-Regular/Cairo-Regular.eot');
+    src: url('../fonts/Cairo-Regular/Cairo-Regular.woff') format('woff'), url('../fonts/Cairo-Regular/Cairo-Regular.ttf') format('truetype'), url('../fonts/Cairo-Regular/Cairo-Regular.svg') format('svg'), url('../fonts/Cairo-Regular/Cairo-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Haettenschweiler;
+    src: url('../fonts/HATTEN/HATTEN.eot');
+    src: url('../fonts/HATTEN/HATTEN.woff') format('woff'), url('../fonts/HATTEN/HATTEN.ttf') format('truetype'), url('../fonts/HATTEN/HATTEN.svg') format('svg'), url('../fonts/HATTEN/HATTEN.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url('../fonts/Montserrat-Regular/Montserrat-Regular.eot');
+    src: url('../fonts/Montserrat-Regular/Montserrat-Regular.woff') format('woff'), url('../fonts/Montserrat-Regular/Montserrat-Regular.ttf') format('truetype'), url('../fonts/Montserrat-Regular/Montserrat-Regular.svg') format('svg'), url('../fonts/Montserrat-Regular/Montserrat-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url('../fonts/Montserrat-Light/Montserrat-Light.eot');
+    src: url('../fonts/Montserrat-Light/Montserrat-Light.woff') format('woff'), url('../fonts/Montserrat-Light/Montserrat-Light.ttf') format('ttf'), url('../fonts/Montserrat-Light/Montserrat-Light.svg') format('svg'), url('../fonts/Montserrat-Light/Montserrat-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat-Medium;
+    src: url('../fonts/Montserrat-Medium/Montserrat-Medium.eot');
+    src: url('../fonts/Montserrat-Medium/Montserrat-Medium.woff') format('woff'), url('../fonts/Montserrat-Medium/Montserrat-Medium.ttf') format('ttf'), url('../fonts/Montserrat-Medium/Montserrat-Medium.svg') format('svg'), url('../fonts/Montserrat-Medium/Montserrat-Medium.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Monstserrat-SemiBold;
+    src: url('../fonts/Montserrat-SemiBold/Montserrat-SemiBold.eot');
+    src: url('../fonts/Montserrat-SemiBold/Montserrat-SemiBold.woff') format('woff'), url('../fonts/Montserrat-SemiBold/Montserrat-SemiBold.ttf') format('ttf'), url('../fonts/Montserrat-SemiBold/Montserrat-SemiBold.svg') format('svg') url('../fonts/Montserrat-SemiBold/Montserrat-SemiBold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montseraat-Bold;
+    src: url('../fonts/Montserrat-Bold/Montserrat-Bold.eot');
+    src: url('../fonts/Montserrat-Bold/Montserrat-Bold.woff') format('woff'), url('../fonts/Montserrat-Bold/Montserrat-Bold.ttf') format('ttf'), url('../fonts/Montserrat-Bold/Montserrat-Bold.svg') format('svg') url('../fonts/Montserrat-Bold/Montserrat-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:IBMPlexSans-Regular;
+    src: url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.eot');
+    src: url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.woff') format('woff'), url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.ttf') format('truetype'), url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.svg') format('svg'), url('../fonts/IBMPlexSans-Regular/IBMPlexSans-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:IBMPlexSans-Medium;
+    src: url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.eot');
+    src: url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.woff') format('woff'), url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.ttf') format('truetype'), url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.svg') format('svg'), url('../fonts/IBMPlexSans-Medium/IBMPlexSans-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:IBMPlexSans-Thin;
+    src: url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.eot');
+    src: url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.woff') format('woff'), url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.ttf') format('truetype'), url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.svg') format('svg'), url('../fonts/IBMPlexSans-Thin/fonts/IBMPlexSans-Thin.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Orbitron;
+    src: url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.eot');
+    src: url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.woff') format('woff'), url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.ttf') format('truetype'), url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.svg') format('svg'), url('../fonts/Orbitron-VariableFont_wght/fonts/Orbitron-VariableFont_wght.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:Aguafina;
+    src: url('../fonts/Aguafina/AguafinaScript-Regular.eot');
+    src: url('../fonts/Aguafina/AguafinaScript-Regular.woff') format('woff'), url('../fonts/Aguafina/AguafinaScript-Regular.ttf') format('truetype'), url('../fonts/Aguafina/AguafinaScript-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Franklin-Gothic-Medium;
+    src: url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.eot');
+    src: url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.woff') format('woff'), url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.ttf') format('ttf'), url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.svg') format('svg'), url('../fonts/Franklin-Gothic-Medium-Condensed/FRAMDCN.otf') format('otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face {
+    font-family: Agency-Bold;
+    src: url('../fonts/Agency-Bold/AGENCYB.eot');
+    src: url('../fonts/Agency-Bold/AGENCYB.woff') format ('woff'), url('../fonts/Agency-Bold/AGENCYB.ttf') format('ttf'), url('../fonts/Agency-Bold/AGENCYB.svg') format('svg'), url('../fonts/Agency-Bold/AGENCYB.otf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: Agency;
+    src: url('../fonts/Agency-Regular/AGENCYR.eot');
+    src: url('../fonts/Agency-Regular/AGENCYR.woff') format ('woff'), url('../fonts/Agency-Regular/AGENCYR.ttf') format('ttf'), url('../fonts/Agency-Regular/AGENCYR.svg') format('svg'), url('../fonts/Agency-Regular/AGENCYR.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dynalight;
+    src: url('../fonts/Dynalight/Dynalight-Regular.eot');
+    src: url('../fonts/Dynalight/Dynalight-Regular.woff') format('woff'), url('../fonts/Dynalight/Dynalight-Regular.ttf') format('ttf'), url('../fonts/Dynalight/Dynalight-Regular.ttf') format('svg'), url('../fonts/Dynalight/Dynalight-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: Open-Sans;
+    src: url('../fonts/OpenSans/OpenSans-Regular.eot');
+    src: url('../fonts/OpenSans/OpenSans-Regular.woff2') format('woff'), url('../fonts/OpenSans/OpenSans-Regular.ttf') format('ttf'), url('../fonts/OpenSans/OpenSans-Regular.svg') format('svg'), url('../fonts/OpenSans/OpenSans-Light.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: Radjani;
+    src: url('../fonts/Radjani/raj-regular.eot');
+    src: url('../fonts/Radjani/raj-regular.woff') format('woff'), url('../fonts/Radjani/raj-regular.ttf') format('ttf'), url('../fonts/Radjani/raj-regular.svg') format('svg'), url('../fonts/Radjani/raj-regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+	font-family: Roboto-Light;
+	src: url('../fonts/Roboto-Light/fonts/Roboto-Light.eot');
+	src: url('../fonts/Roboto-Light/fonts/Roboto-Light.woff') format('woff'), url('../fonts/Roboto-Light/fonts/Roboto-Light.ttf') format('truetype'), url('../fonts/Roboto-Light/fonts/Roboto-Light.svg') format('svg'), url('../fonts/Roboto-Light/fonts/Roboto-Light.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto-Regular;
+	src: url('../fonts/Roboto-Regular/fonts/Roboto-Regular.eot');
+	src: url('../fonts/Roboto-Regular/fonts/Roboto-Regular.woff') format('woff'), url('../fonts/Roboto-Regular/fonts/Roboto-Regular.ttf') format('truetype'), url('../fonts/Roboto-Regular/fonts/Roboto-Regular.svg') format('svg'), url('../fonts/Roboto-Regular/fonts/Roboto-Regular.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto-Medium;
+	src: url('../fonts/Roboto-Medium/fonts/Roboto-Medium.eot');
+	src: url('../fonts/Roboto-Medium/fonts/Roboto-Medium.woff') format('woff'), url('../fonts/Roboto-Medium/fonts/Roboto-Medium.ttf') format('truetype'), url('../fonts/Roboto-Medium/fonts/Roboto-Medium.svg') format('svg'), url('../fonts/Roboto-Medium/fonts/Roboto-Medium.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto-Bold;
+	src: url('../fonts/Roboto-Bold/fonts/Roboto-Bold.eot');
+	src: url('../fonts/Roboto-Bold/fonts/Roboto-Bold.woff') format('woff'), url('../fonts/Roboto-Bold/fonts/Roboto-Bold.ttf') format('truetype'), url('../fonts/Roboto-Bold/fonts/Roboto-Bold.svg') format('svg'), url('../fonts/Roboto-Bold/fonts/Roboto-Bold.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: RobotoCondensed-Light;
+	src: url('../fonts/RobotoCondensed-Light/fonts/RobotoCondensed-Light.eot');
+	src: url('../fonts/RobotoCondensed-Light/fonts/RobotoCondensed-Light.woff') format('woff'), url('../fonts/RobotoCondensed-Light/fonts/RobotoCondensed-Light.ttf') format('truetype'), url('../fonts/RobotoCondensed-Light/fonts/RobotoCondensed-Light.svg') format('svg'), url('../fonts/RobotoCondensed-Light/fonts/RobotoCondensed-Light.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+font-face {
+	font-family: RobotoCondensed-Regular;
+	src: url('../fonts/RobotoCondensed-Regular/fonts/RobotoCondensed-Regular.eot');
+	src: url('../fonts/RobotoCondensed-Regular/fonts/RobotoCondensed-Regular.woff') format('woff'), url('../fonts/RobotoCondensed-Regular/fonts/RobotoCondensed-Regular.ttf') format('truetype'), url('../fonts/RobotoCondensed-Regular/fonts/RobotoCondensed-Regular.svg') format('svg'), url('../fonts/RobotoCondensed-Regular/fonts/RobotoCondensed-Regular.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: RobotoCondensed-Bold;
+	src: url('../fonts/RobotoCondensed-Bold/fonts/RobotoCondensed-Bold.eot');
+	src: url('../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.woff') format('woff'), url('../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.ttf') format('truetype'), url('../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.svg') format('svg'), url('../fonts/RobotoCondensed-Bold/fonts/RobotoCondensed-Bold.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
+
+.Radjani {
+    font-family: Radjani;
+}
+.Open-Sans {
+    font-family:Open-Sans;
+}
+.Agency {
+    font-family: Agency;
+}
+.Agency-Bold {
+    font-family:Agency-Bold;
+}
+.Franklin-Gothic-Medium-Condensed {
+    font-family: Franklin-Gothic-Medium;
+}
+.Aguafina {
+    font-family:Aguafina;
+}
+.Teko {
+    font-family:Teko;
+}
+.Teko-Bold {
+    font-family:Teko-Bold;
+}
+.Teko-Light {
+    font-family:Teko-Thin;
+}
+
+.Lato {
+    font-family: Lato;
+}
+.Lato-Thin {
+    font-family: Lato-Thin;
+}
+.Lato-Bold {
+    font-family: Lato-Bold;
+}
+.Libre-Frankilin-Light {
+    font-family:LibreFranklin-Light;
+}
+.Libre-Frankilin-Bold {
+    font-family:LibreFranklin-Bold;
+}
+.Cairo-Black {
+    font-family: Cairo-Black;
+}
+.Cairo-Regular {
+    font-family: Cairo-Regular;
+}
+.Hatten {
+    font-family:Haettenschweiler;
+}
+.Montserrat {
+    font-family:Montserrat-Regular;
+}
+.Montserrat-Medium {
+    font-family:Montserrat-Medium;
+}
+.Montserrat-SemiBold {
+    font-family:Monstserrat-SemiBold;
+}
+.Montserrat-Bold {
+    font-family:Montserrat-Bold;
+}
+.Roboto-Condensed-Light {
+    font-family:RobotoCondensed-Light;
+}
+.Roboto-Condensed-Regular {
+    font-family:RobotoCondensed-Regular;
+}
+.Roboto-Condensed-Bold {
+    font-family: RobotoCondensed-Bold;
+}
+.Roboto-Light {
+    font-family:Roboto-Light;
+}
+.Roboto-Regular {
+    font-family:Roboto-Regular;
+}
+.Roboto-Medium {
+    font-family:Roboto-Medium;
+}
+.Roboto-Bold {
+    font-family:Roboto-Bold;
+}
+.IBM-Regular {
+    font-family:IBMPlexSans-Regular;
+}
+.IBM-Medium {
+    font-family:IBMPlexSans-Medium;
+}
+.IBM-Thin {
+    font-family:IBMPlexSans-Thin;
+}
+.Orbitron-Thin {
+    font-family:Orbitron;
+    font-weight:300;
+}
+.Orbitron-Black {
+font-family:Orbitron;
+font-weight:900;
+}

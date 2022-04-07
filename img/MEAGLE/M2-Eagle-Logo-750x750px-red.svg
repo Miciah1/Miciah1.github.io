@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="750" height="750" viewBox="0 0 750 750" version="1.1" id="SVGRoot" sodipodi:docname="M2-Eagle-Logo-750x750px-red.svg" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1027" id="namedview16" showgrid="false" inkscape:zoom="0.5853333336421762" inkscape:cx="307.297539539103" inkscape:cy="474.0625702268222" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="SVGRoot">
+<sodipodi:guide position="631.8055463490889,15.510951854214" orientation="0.7071067811865476,-0.7071067811865475" id="guide841" inkscape:label="" inkscape:locked="false" inkscape:color="rgb(0,0,255)" />
+<sodipodi:guide position="750,750" orientation="750,0" id="guide843" />
+<sodipodi:guide position="750,0" orientation="0,-750" id="guide845" />
+<sodipodi:guide position="0,0" orientation="-750,0" id="guide847" />
+<sodipodi:guide position="126.5852062216938,1.625474208741934" orientation="0.7071067811865475,0.7071067811865476" id="guide849" inkscape:label="" inkscape:locked="false" inkscape:color="rgb(0,0,255)" />
+</sodipodi:namedview>
+<title id="title29">Magnificent Eagle</title>
+<defs id="defs10">
+<color-profile name="Agfa-:-Swop-Standard" xlink:href="file:///C:/WINDOWS/system32/spool/drivers/color/RSWOP.icm" id="color-profile3" />
+</defs>
+<metadata id="metadata13">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title>Magnificent Eagle</dc:title>
+<dc:date>3/29/21</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Miciah Martin</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:rights>
+<cc:Agent>
+<dc:title>Copyright CC</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:publisher>
+<cc:Agent>
+<dc:title>Miciah Martin</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:identifier>ME13</dc:identifier>
+<dc:language>XML,SVG.EN-US,PNG,HTML</dc:language>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>Miciah Martin</rdf:li>
+<rdf:li>Logo</rdf:li>
+<rdf:li>Eagle</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:coverage>Global</dc:coverage>
+<dc:description>A composite logo drawing that  includes two forms: the letter &quot;M&quot; and an Eagle. Designed by Miciah Martin.</dc:description>
+<dc:contributor>
+<cc:Agent>
+<dc:title>Jesus Christ Talent Provisioners and Miciah Martin</dc:title>
+</cc:Agent>
+</dc:contributor>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" />
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-nc/4.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+</cc:License>
+</rdf:RDF>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:title />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g id="g867" transform="matrix(1.001421741261181,0,0,0.9492644722234697,-0.5331529729426448,39.59465074927204)" style="fill:#ff0000">
+<path id="path39" style="fill:#ff0000;stroke:none;stroke-width:0.673063px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 618.76171875,88.73674149661792 577.7421875,129.7562727466179 V 371.414475871618 L 620.47265625,317.682053996618 Z M 132.1777343750001,97.92619462161792 129.529296875,318.232835246618 174.49609375,374.392991496618 V 140.244553996618 Z M 572.4921875,135.006272746618 528.587890625,178.910569621618 525.55078125,235.521897746618 427.537109375,319.334397746618 415.17578125,269.158616496618 417.384765625,265.297288371618 453.5859375,263.092210246618 444.314453125,237.728928996618 387.802734375,227.803147746618 379.857421875,226.148850871618 343.212890625,232.766038371618 329.083984375,279.082444621618 343.212890625,241.588303996618 329.966796875,281.289475871618 341.447265625,253.168382121618 323.787109375,319.334397746618 225.333984375,237.728928996618 223.59375,189.342210246618 179.74609375,145.4945539966179 V 380.949632121618 L 260.2109375,481.445725871618 295.97265625,438.437913371618 279.1953125,507.914475871618 374.1171875,630.8754133716179 469.921875,508.465257121618 455.3515625,441.193772746618 491.99609375,479.240647746618 572.4921875,378.017991496618 Z M 365.4765625,247.402757121618 C 365.4765625,247.402757121618 385.8064000105381,248.8134123621808 390.32421875,249.283616496618 394.8420374894619,249.7538206310501 402.7480468749999,251.635178996618 402.748046875,251.635178996618 L 389.947265625,260.098069621618 C 389.947265625,260.098069621618 392.5827530933905,256.8059703409616 379.029296875,252.103928996618 Z" sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc" />
+<path style="fill:#ff0000;stroke:none;stroke-width:0.309732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 683.6386618387023,23.85979840791629 623.7022298678048,83.79623037881322 623.4147937783061,744.4405511845418 683.8968934506333,682.3977010442413 Z" id="path50" sodipodi:nodetypes="ccccc" />
+<path style="fill:#ff0000;stroke:none;stroke-width:0.303874px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 749.2093341999316,-41.71087395331371 689.2640487342396,18.23441151237875 688.9765701861914,677.3180243086831 749.4676039564792,616.8269905383948 Z" id="path893" sodipodi:nodetypes="ccccc" />
+<path style="fill:#ff0000;stroke:none;stroke-width:0.309732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 66.36133816129812,32.10979840791572 126.2977701321954,92.04623037881333 126.5852062216938,748.3745257912579 66.10310654936677,687.8924261189313 Z" id="path899" sodipodi:nodetypes="ccccc" />
+<path style="fill:#ff0000;stroke:none;stroke-width:0.303874px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 0.790665800068325,-33.46087395331375 60.73595126576078,26.48441151237864 61.0234298138081,682.8127493833726 0.5323960435202366,622.3217156130848 Z" id="path901" sodipodi:nodetypes="ccccc" />
+</g>
+</svg>
