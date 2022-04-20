@@ -17,7 +17,7 @@ Disallow:  /license-Actual.html
 Disallow:  /snippets.html
 
 # Allow Main Pages
-User-agent: *
+
 Allow: /index.html
 Allow: /contact.html
 Allow: /skills.html
