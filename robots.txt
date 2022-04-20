@@ -1,5 +1,5 @@
 #Sitemap: Allow Sitemap
-Sitemap: https://miciah1.github.io/Sitemap.xml
+Sitemap: https://miciahmartin.com/sitemap.xml
 
 # Block Images and Libraries
 User-agent: *
@@ -24,6 +24,8 @@ Allow: /skills.html
 Allow: /bio.html
 Allow: /technology.html
 Allow: /pipeline.html
+Allow: /sitemap.html
+Allow: /yandex_14fdca0aa0134bae.html 
 
 
 

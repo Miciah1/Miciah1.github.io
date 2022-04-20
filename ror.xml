@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://miciahmartin.com/</title>
+  <link>https://miciahmartin.com/</link>
+
+<item>
+     <link>https://miciahmartin.com/</link>
+     <title>Miciah Martin Full Stack Software Web Application and Hardware Developer | Freelance Consultations and Contracts</title>
+     <description>Miciah Martin is a Full Stack Developer working from Reno, NV. Miciah works both freelance and permanent employee positions.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://miciahmartin.com/index.html</link>
+     <title>Miciah Martin Full Stack Software Web Application and Hardware Developer | Freelance Consultations and Contracts</title>
+     <description>Miciah Martin is a Full Stack Developer working from Reno, NV. Miciah works both freelance and permanent employee positions.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://miciahmartin.com/skills.html</link>
+     <title>Skills - Miciah Martin | Development Experience and Endeavors</title>
+     <description>Skills of Miciah Martins include software design modeling and development, as well as some hardware design and assembly</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://miciahmartin.com/bio.html</link>
+     <title>Miciah's Abbreviated Biography and How Interests and Past Experience Helped Lead me To Software Development</title>
+     <description>Welcome, to Miciah's abbreviated Biography. Here you will find out how the past is shaping my future, and why I became a developer</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://miciahmartin.com/contact.html</link>
+     <title>Contact Miciah Martin of Reno, NV by Phone or Email | Leave Detailed Messages</title>
+     <description>Get in touch with Miciah Martin of Reno Nevada. You can reach via phone or Email. Phone calls are the fastest method of conatct please leave a voicemail.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://miciahmartin.com/privacy.html</link>
+     <title>Privacy and Licensing</title>
+     <description>Privacy - use of this site obligates your adherence to our privacy policy</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://miciahmartin.com/license.html</link>
+     <title>Licensing Guidlines | Terms and Agreements | Coprights and Attribution Use of These Pages Binds you To Agree with Our The Licensing Terms</title>
+     <description>The use of this site obligates adherence to the licensing rules and conditions set forth. Conditions are subject to change. All terms are simple and operate from the Golden Rule perspective</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
