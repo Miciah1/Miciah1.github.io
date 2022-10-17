@@ -72,7 +72,7 @@
 
 body,
 html {
-    min-width: 420px;
+    min-width: 360px;
     overflow-x: hidden
 }
 
@@ -106,7 +106,7 @@ label {
     color: #35ce3e;
     font-family: Radjani;
     background: #fff;
-    min-width: 420px;
+    min-width: 360px;
     height: 71px;
     box-shadow: 0 4px 20px 0 #0f0101
 }
@@ -1155,7 +1155,7 @@ footer .footer-list {
 
     #mainNav {
         background: #fdfdfd;
-        min-width: 575px;
+        min-width: 360px;
         padding: .53rem .53rem;
         height: 71px;
         box-shadow: 0 4px 20px 0 #0f0101
@@ -1167,7 +1167,8 @@ footer .footer-list {
         text-transform: uppercase;
         outline: 0;
         width: auto;
-        padding: 1rem;
+        padding-left:15px;
+        padding-right:15px;
         height: 71px;
         border-bottom: 4px solid transparent;
         border-top: 4px solid transparent;
