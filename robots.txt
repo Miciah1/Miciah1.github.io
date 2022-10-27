@@ -26,7 +26,7 @@ Allow: /technology.html
 Allow: /pipeline.html
 Allow: /sitemap.html
 Allow: /yandex_14fdca0aa0134bae.html 
-
+Allow  /verifyforzoho.html
 
 
 # Twitter
